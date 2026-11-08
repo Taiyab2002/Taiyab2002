@@ -27,12 +27,11 @@
 
 ## 🌊 UNDERWATER ACTIVITY
 
-<!-- BEGIN ACTIVITY-GRAPH -->
 <picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg" width="100%">
 </picture>
-<!-- END ACTIVITY-GRAPH -->
 
 <div align="center">
   <img src="./koi/koi.gif" alt="GitHub Activity Koi Fish" width="100%" />
