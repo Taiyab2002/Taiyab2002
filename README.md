@@ -22,3 +22,7 @@
 [![](https://komarev.com/ghpvc/?username=Taiyab2002&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="./koi/koi.gif" alt="GitHub Activity Koi Fish" width="100%" />
+</div>
