@@ -23,6 +23,13 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+
+## 🌊 UNDERWATER ACTIVITY
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 <div align="center">
   <img src="./koi/koi.gif" alt="GitHub Activity Koi Fish" width="100%" />
 </div>
