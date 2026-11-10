@@ -1,5 +1,5 @@
 # 💫 About Me:
-📊 I'm currently working on ResearchMate, an Ai Powered research assitant system.<br><br>🌱 I'm currently learning Python, Data Analytics, and exploring the world of AI & Machine Learning.<br><br>🤝 I'm looking to collaborate on Data Analytics and Python projects.<br><br>💡 I'm interested in turning raw data into meaningful insights.<br><br>💬 Ask me about my projects and learning journey.<br><br>⚡ Fun fact: I believe every dataset has a story waiting to be discovered.
+📊 I'm currently working on ResearchMate, an AI Powered research assistant system.<br><br>🌱 I'm currently learning Python, Data Analytics, and exploring the world of AI & Machine Learning.<br><br>🤝 I'm looking to collaborate on Data Analytics and Python projects.<br><br>💡 I'm interested in turning raw data into meaningful insights.<br><br>💬 Ask me about my projects and learning journey.<br><br>⚡ Fun fact: I believe every dataset has a story waiting to be discovered.
 
 
 ## 🌐 Socials:
