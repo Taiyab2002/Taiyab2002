@@ -17,7 +17,7 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://facebook.com/taiyab2026">
+  <a href="https://www.facebook.com/taiyab2026">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/taiyab_2026/">
