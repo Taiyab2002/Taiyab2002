@@ -20,7 +20,7 @@
   <a href="https://facebook.com/taiyab2026">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/taiyab_2026">
+  <a href="https://www.instagram.com/taiyab_2026/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/md-taiyab-ur-rahman">
