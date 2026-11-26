@@ -1,20 +1,21 @@
-
 # 💫 About Me
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+My+Future+in+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Machine+Learning+Engineer;Exploring+Generative+AI;Learning+Large+Language+Models;Building+Intelligent+Applications" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  🎓 Final-year Computer Science and Engineering Student<br>
-  🤖 Aspiring AI Engineer with a passion for intelligent solutions<br>
-  🌱 Exploring Artificial Intelligence, Machine Learning & Data Science<br>
-  🚀 Currently contributing to the frontend development of <b>ResearchMate</b> (In Progress)<br>
-  💡 Interested in Generative AI, LLMs, RAG & AI Agents<br>
-  ⚡ Always learning, experimenting and building.
+  🎓 Computer Science and Engineering Student at Metropolitan University, Bangladesh<br>
+  🤖 Aspiring Machine Learning & Generative AI Engineer<br>
+  🌱 Building foundations in Python, Mathematics, Statistics & Machine Learning<br>
+  🧠 Exploring LLMs, RAG, Vector Databases & AI Agents<br>
+  🚀 Contributing to the frontend development of <b>ResearchMate</b> (In Progress)<br>
+  ⚡ Learning, experimenting and building practical solutions.
 </p>
 
-## 🌐 Socials:
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/taiyab2026">
@@ -31,7 +32,20 @@
   </a>
 </p>
 
-# 💻 Tech Stack & Learning Roadmap
+---
+
+## 🎯 Career Focus
+
+My primary areas of career interest are:
+
+- **Machine Learning Engineering** — Understanding, developing and applying machine learning models to real-world problems.
+- **Generative AI Engineering** — Exploring LLM-powered applications, RAG pipelines and AI-driven systems.
+
+I am focused on developing strong fundamentals before moving toward more advanced applications and engineering practices.
+
+---
+
+## 💻 Tech Stack & Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,56 +59,104 @@
   <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 🧭 My Learning Journey
+---
 
-- Python & Git Fundamentals
-- Mathematics, Statistics, SQL & DSA
-- Machine Learning
-- Deep Learning
-- Generative AI & Large Language Models
-- RAG & Vector Databases
+## 🧭 Learning Roadmap
+
+My learning journey is focused on building a strong foundation and gradually progressing toward Machine Learning and Generative AI Engineering.
+
+**01. Core Foundations**
+- Python Programming
+- Mathematics & Statistics
+- Data Structures & Algorithms
+- SQL & Data Analysis
+- Git & GitHub
+
+**02. Machine Learning**
+- Machine Learning Fundamentals
+- Data Preprocessing & Feature Engineering
+- Supervised & Unsupervised Learning
+- Model Evaluation & Optimization
+- Deep Learning Fundamentals
+
+**03. Generative AI & LLM Engineering**
+- Generative AI Fundamentals
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
 - AI Agents
-- Backend, APIs & Deployment
 
-## 🚀 Projects
-
-- **[ResearchMate](https://github.com/Taiyab2002/ResearchMate)** — AI-powered academic research assistance platform. *(In Progress)*
-- **[Portfolio](https://github.com/Taiyab2002/portfolio)** — Personal portfolio project.
-- **[Compiler Construction](https://github.com/Taiyab2002/compiler-construction)** — Compiler construction project.
-
-## 🏆 Certifications
-
-- Kaggle — Intro to Machine Learning
-- Ostad — AI Automation for Work and Business
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Taiyab2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Taiyab2002&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Taiyab2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Taiyab2002&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+**04. AI Application Engineering**
+- Backend Development & APIs
+- Model Integration
+- Deployment & Production Fundamentals
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Taiyab2002&icon=1&color=0)](https://visitcount.itsvg.in)
+## 🚀 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [ResearchMate](https://github.com/Taiyab2002/ResearchMate) | An AI-powered academic research assistance platform for students and researchers. | In Progress |
+| [Portfolio](https://github.com/Taiyab2002/portfolio) | My personal portfolio showcasing my background, learning journey and projects. | Ongoing |
+| [Compiler Construction](https://github.com/Taiyab2002/compiler-construction) | An academic project focused on compiler construction. | Project |
+
+---
+
+## 🏆 Certifications
+
+- **Kaggle** — Intro to Machine Learning
+- **Ostad** — AI Automation for Work and Business
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Taiyab2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=Taiyab2002&theme=highcontrast&hide_border=false" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Taiyab2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
+</p>
+
+### 🔝 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Taiyab2002&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taiyab2002&icon=1&color=0" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🌊 UNDERWATER ACTIVITY
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Taiyab2002/Taiyab2002/output/github-snake.svg" width="100%">
+  </picture>
+</p>
 
 <div align="center">
   <img src="./koi/koi.gif" alt="GitHub Activity Koi Fish" width="100%" />
 </div>
+
+---
+
+<p align="center">
+  <i>"Curiosity is my learning path. Consistency is how I move forward."</i>
+</p>
